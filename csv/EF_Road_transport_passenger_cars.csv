@@ -1,0 +1,112 @@
+﻿NFR,Sector,Table,Type,Technology,Fuel,Abatement,Region,Pollutant,Value,Unit,CI_lower,CI_upper,Reference
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_82,Tier 2 emission factor,Passenger Cars,CNG,CNG - Euro 6 and later 4,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_82,Tier 2 emission factor,Passenger Cars,CNG,CNG - Euro 4 and 5&6,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_81,Tier 2 emission factor,Passenger Cars,E85,E85 - Euro 4 and later,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_80,Tier 2 emission factor,Passenger Cars,Petrol,Hybrid Petrol Large - Euro 4 and later,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_79,Tier 2 emission factor,Passenger Cars,Petrol,Hybrid Petrol Medium - Euro 4 and later,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_49,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Small - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_50,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Small - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_51,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Small - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_46,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_47,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Small - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_48,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Small - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_56,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_55,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_44,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_52,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Conventional,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_54,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_53,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_38,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - ECE 15/04,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_39,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_35,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - ECE 15/00-01,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_36,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - ECE 15/02,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_37,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - ECE 15/03,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_58,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_40,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_45,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_41,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_43,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_42,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_71,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_72,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_69,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_68,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_70,Tier 2 emission factor,Passenger Cars,LPG,LPG - Conventional,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_76,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 6 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_78,Tier 2 emission factor,Passenger Cars,Petrol,Hybrid Petrol Small - Euro 4 and later,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_77,Tier 2 emission factor,Passenger Cars,Petrol,2-Stroke - Conventional,NA,CO2,,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_74,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_75,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_73,Tier 2 emission factor,Passenger Cars,LPG,LPG - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_60,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_61,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Conventional,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_33,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_57,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_59,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Medium - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_65,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_67,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_66,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_63,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_64,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_62,Tier 2 emission factor,Passenger Cars,Diesel,Diesel Large-SUV-Executive - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_05,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Mini - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_06,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - PRE ECE,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_03,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Mini - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_02,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Mini - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_04,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Mini - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_10,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - ECE 15/04,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_12,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_11,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Open Loop,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_08,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - ECE 15/02,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_09,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - ECE 15/03,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_07,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - ECE 15/00-01,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_01,Tier 1 emission factor,All vehicles type,Petrol,,NA,CO2,3.18,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_01,Tier 1 emission factor,All vehicles type,Petrol,,NA,CO2,3.18,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_01,Tier 1 emission factor,All vehicles type,Petrol,,NA,CO2,3.18,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_02,Tier 1 emission factor,All vehicles type,Diesel,,NA,CO2,3.14,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_07,Tier 1 emission factor,All vehicles type,E85 4,,NA,CO2,2.104,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_07,Tier 1 emission factor,All vehicles type,E85 4,,NA,CO2,2.104,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_07,Tier 1 emission factor,All vehicles type,E85 4,,NA,CO2,2.104,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_01,Tier 1 emission factor,All vehicles type,Petrol,,NA,CO2,3.18,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_06,Tier 1 emission factor,All vehicles type,E10 4,,NA,CO2,3.061,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_01,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Mini - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_04,Tier 1 emission factor,All vehicles type,CNG3(or LNG),,NA,CO2,2.75,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_02,Tier 1 emission factor,All vehicles type,Diesel,,NA,CO2,3.14,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_02,Tier 1 emission factor,All vehicles type,Diesel,,NA,CO2,3.14,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_03,Tier 1 emission factor,All vehicles type,LPG2,,NA,CO2,3.017,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_03,Tier 1 emission factor,All vehicles type,LPG2,,NA,CO2,3.017,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_03,Tier 1 emission factor,All vehicles type,LPG2,,NA,CO2,3.017,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_03,Tier 1 emission factor,All vehicles type,LPG2,,NA,CO2,3.017,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_07,Tier 1 emission factor,All vehicles type,E85 4,,NA,CO2,2.104,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_04,Tier 1 emission factor,All vehicles type,CNG3(or LNG),,NA,CO2,2.75,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_06,Tier 1 emission factor,All vehicles type,E10 4,,NA,CO2,3.061,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_04,Tier 1 emission factor,All vehicles type,CNG3(or LNG),,NA,CO2,2.75,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_05,Tier 1 emission factor,All vehicles type,E5 4,,NA,CO2,3.125,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_05,Tier 1 emission factor,All vehicles type,E5 4,,NA,CO2,3.125,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_05,Tier 1 emission factor,All vehicles type,E5 4,,NA,CO2,3.125,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_05,Tier 1 emission factor,All vehicles type,E5 4,,NA,CO2,3.125,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_06,Tier 1 emission factor,All vehicles type,E10 4,,NA,CO2,3.061,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_06,Tier 1 emission factor,All vehicles type,E10 4,,NA,CO2,3.061,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_02,Tier 1 emission factor,All vehicles type,Diesel,,NA,CO2,3.14,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-12_04,Tier 1 emission factor,All vehicles type,CNG3(or LNG),,NA,CO2,2.75,kg/kg fuel,0,0,CO2 emission factors are based on the carbon content of the fuel and assume 100% oxidation of the fuel
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_27,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_28,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_25,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Open Loop,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_24,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - ECE 15/04,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_26,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 1 - 91/441/EEC,NA,CO2,0.596,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_32,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_34,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Large-SUV-Executive - PRE ECE,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_30,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_31,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_29,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_16,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 5 – EC 715/2007,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_17,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 6 up to 2016,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_14,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 3 - 98/69/EC I,NA,CO2,0.464,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_13,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 2 - 94/12/EEC,NA,CO2,0.53,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_15,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 4 - 98/69/EC II,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_21,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - ECE 15/00-01,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_23,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - ECE 15/03,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_22,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - ECE 15/02,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_19,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 6 2020+,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_20,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Medium - PRE ECE,NA,CO2,0.663,g/km,,,Calculated using Tier 3 method
+1.A.3.b.i,"Road transport, passenger cars",Table_3-17_18,Tier 2 emission factor,Passenger Cars,Petrol,Petrol Small - Euro 6 2017-2023,NA,CO2,0.398,g/km,,,Calculated using Tier 3 method
